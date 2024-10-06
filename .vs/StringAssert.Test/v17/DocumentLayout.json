@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\timof\\source\\repos\\StringAssert.Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD0FE26F-8164-4844-8DDE-7A2D5FD20B90}|..\\StringAssert\\StringAssert\\StringAssert.csproj|c:\\users\\timof\\source\\repos\\stringassert\\stringassert\\programm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE43AB6F-2305-4B5C-A074-78B658B9C196}|StringAssert.Test\\StringAssert.Test.csproj|c:\\users\\timof\\source\\repos\\stringassert.test\\stringassert.test\\stringasserttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE43AB6F-2305-4B5C-A074-78B658B9C196}|StringAssert.Test\\StringAssert.Test.csproj|solutionrelative:stringassert.test\\stringasserttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Programm.cs",
+              "DocumentMoniker": "C:\\Users\\timof\\source\\repos\\StringAssert\\StringAssert\\Programm.cs",
+              "RelativeDocumentMoniker": "..\\StringAssert\\StringAssert\\Programm.cs",
+              "ToolTip": "C:\\Users\\timof\\source\\repos\\StringAssert\\StringAssert\\Programm.cs",
+              "RelativeToolTip": "..\\StringAssert\\StringAssert\\Programm.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAUwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T23:27:49.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StringAssertTests.cs",
+              "DocumentMoniker": "C:\\Users\\timof\\source\\repos\\StringAssert.Test\\StringAssert.Test\\StringAssertTests.cs",
+              "RelativeDocumentMoniker": "StringAssert.Test\\StringAssertTests.cs",
+              "ToolTip": "C:\\Users\\timof\\source\\repos\\StringAssert.Test\\StringAssert.Test\\StringAssertTests.cs",
+              "RelativeToolTip": "StringAssert.Test\\StringAssertTests.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAUwDcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T23:27:09.165Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringAssert", "StringAssert\StringAssert.csproj", "{C916627E-FDEB-452E-8CCD-0B1A06E23D37}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringAssert.Test", "..\StringAssert.Test\StringAssert.Test\StringAssert.Test.csproj", "{CEA4C1AB-5DE4-497C-B280-D769E924832E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C916627E-FDEB-452E-8CCD-0B1A06E23D37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C916627E-FDEB-452E-8CCD-0B1A06E23D37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C916627E-FDEB-452E-8CCD-0B1A06E23D37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C916627E-FDEB-452E-8CCD-0B1A06E23D37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEA4C1AB-5DE4-497C-B280-D769E924832E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEA4C1AB-5DE4-497C-B280-D769E924832E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEA4C1AB-5DE4-497C-B280-D769E924832E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEA4C1AB-5DE4-497C-B280-D769E924832E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F970DF6C-FB3E-4625-8804-D83750F97277}
+	EndGlobalSection
+EndGlobal
